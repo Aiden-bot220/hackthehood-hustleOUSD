@@ -1,0 +1,18 @@
+alarm clock
+Start
+1. Set Alarms 
+    - The day you want to set the alarm
+       - Repeat on some certain days, weekdays or weekends
+    - The time, AM/PM
+    - Select a certain song/noise
+        -Make noise at a certain time 
+2. Customizing alarms
+    - Deleting Alarms
+    - Changing the times of previosuly made alarms
+3. Stopping Noise
+    Pressing a button to stop the Noise
+    3a. Snooze
+        3a- Sets another alarm for a certain amount of time
+        - Snooze again, start the alarm over again 
+        3a- Stop the alarm completely
+End
